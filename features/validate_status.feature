@@ -1,4 +1,4 @@
-Feature: Example API requests
+Feature: Example API validation of the response status
 
 
     Scenario Outline: I want to validate status <status> of the API
